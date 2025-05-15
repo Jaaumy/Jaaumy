@@ -26,7 +26,7 @@ O **Supermercado Supra** é um projeto que desenvolvi com o objetivo de criar um
 
 ---
 
-### **2. 📝 Listas de Exercícios em Java**
+### **2. Listas de Exercícios em Java**
 Este projeto reúne várias listas de exercícios que desenvolvi para praticar e aprofundar meus conhecimentos em Java. Ele abrange desde operações básicas até tópicos mais avançados, como manipulação de vetores, matrizes e estruturas de repetição.
 
 - **Tecnologias**: Java
